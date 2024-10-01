@@ -1,37 +1,13 @@
-# Project Title
-Root cause Analysis Super Store 
-
-## Introduction
-Review the Super Store retuned products to find some root causes.
-## Requirements
-Tableau and Loom Video and audio recording app 
-## Installation
-For this course, we’ll work with Tableau Public. Let’s install it!
-First, make an account on the signup page.
-Once you’ve made an account, select the link to download the desktop app.
-And select the download link.
-Next, download the following tennis.csv dataset and open a new workbook with it:
-tennis.csv
-Navigate to where you downloaded the tennis.csv dataset and open it for the new workbook:
-You’ll be met with a Data Source view. Notice the view of the dataset in the lower right:
-If you manage to follow the steps to get here, you officially have a working installation of Tableau!
-
-## Usage
-1. What is causing returns
-1.1 Total Sales Vs Total Returns 
-1.2 Return Rate by Product.
-1.3 return rate by customer.
-1.4 return rate by state
-1.5 return rate by month 
-Mock up dashboard 
-Final dashboard 
-Story template
-Final History
- 
-## New Link to Tableau Workbook 
-https://public.tableau.com/views/AMLsprint5/FinalDashboard_?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link## link to 
-
-Video presentation Loom 
-https://www.loom.com/share/7ead1da43af64f00b59c342ed1be5334
+# TripleTen_projects
+Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | spread sheats data analysis| Help a client analyze the Manhattan vacation rental market. They want guidance on which property types to invest in, and your task is to analyze Airbnb data for insights. We make your recommendations|
+| 2 | real-life analytical case study: working as an analyst for Zuber | Working with a database, we analyzed data from competitors and test a hypothesis about the impact of weather on ride frequency. |
+| 3 | Turning event logs into business metrics | Explore the data in the “raw_user_activity” tab. Each row represents an activity, or event, by a user on the company’s website. Each time a user views a product page, opens their shopping cart, or completes a purchase, the event is captured in the activity logs. |
+| 4 | Saving SuperStore | As a consultant to review the superstore’s operations and increase its profitability to avoid bankruptcy.|
+| 5 | What is causing the high number of returned orders at the Superstore?  |We will be preparing an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.|
+| 6 | Shopify App Analysis |Review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. You want to figure out what key factors play into the success of a Shopify app.|
+| 7 | Zomato Analysis |Zomato is a multinational restaurant aggregator and food delivery company. As my first assignment in the onboarding process I have given several test datasets to analyze the business performance of restaurants and customers registered in the service. |
