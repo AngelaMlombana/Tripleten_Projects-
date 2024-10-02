@@ -4,7 +4,7 @@ Create a conversion funnel to better understand how users interact with the webs
 # Requirements
 Google spreadsheets 
 
-#Usage
+**#Usage**
 Purchase_activity : For analytics purpose of this project data is filtered from our Raw_User_Activity, we will be only using purchases data from event_type, and we have set up monthly dates to build and track cohort.
 Conversion_Funnel: reveal the path user is taking to buy the product while interact with the business, and shows percentage of customers who move from one step to the next.
 First Purchase: from Purchase_Activity data we have created a pivot table that shows each user who made a purchase.
