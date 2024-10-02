@@ -4,7 +4,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [spread sheats data analysis](https://github.com/AngelaMlombana/Tripleten_Projects-/tree/main/1.%20Spread%20Sheets%20Data%20Analysis)| Help a client analyze the Manhattan vacation rental market. They want guidance on which property types to invest in, and your task is to analyze Airbnb data for insights. We make your recommendations|
+| 1 | [Spread Sheats Data Analysis](https://github.com/AngelaMlombana/Tripleten_Projects-/tree/main/1.%20Spread%20Sheets%20Data%20Analysis)| Help a client analyze the Manhattan vacation rental market. They want guidance on which property types to invest in, and your task is to analyze Airbnb data for insights. We make your recommendations|
 | 2 | real-life analytical case study: working as an analyst for Zuber| Working with a database, we analyzed data from competitors and test a hypothesis about the impact of weather on ride frequency. |
 | 3 | [Turnin Event logs Into Business Metrics](https://github.com/AngelaMlombana/Tripleten_Projects-/tree/main/3.Turning%20event%20logs%20into%20business%20metrics)| Working with a database, we analyzed data from competitors and test a hypothesis about the impact of weather on ride frequency. |
 | 4 | Saving SuperStore | As a consultant to review the superstore’s operations and increase its profitability to avoid bankruptcy.|
