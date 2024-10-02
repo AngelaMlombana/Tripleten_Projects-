@@ -1,7 +1,7 @@
 # Project Title
 analyze Airbnb data for insights.
 
- Introduction
+## Introduction
 We Studied the Airbnb data to help a client analyze the Manhattan vacation rental market, this project provides insights and guidance on which property types to invest.
 
 ## Requirements
